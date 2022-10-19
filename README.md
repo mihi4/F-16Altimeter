@@ -14,9 +14,11 @@ The "arduino" folder holds the sourcecode for the Arduino-side of [BMSAIT](https
 You can get the Windows program in the link above.
 centerController.ini should be used as configuration file in BMSAIT.
 
-!!!! Use those files at your own risk !!!!
+I hope to add a BOM for the hardware parts I used ASAP
+
+## !!! Use those files at your own risk !!!
 
 All the files are free to use under the GNUGPLv3
 
-If you would like to support me with an icecream, coffee or pizza, you can use paypal.me to to it ;)
+If you would like to support me with an icecream, coffee or pizza, you can use paypal.me to to so ;)
 [Paypal.me](https://paypal.me/MichiHirczy)
