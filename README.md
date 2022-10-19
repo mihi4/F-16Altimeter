@@ -15,3 +15,8 @@ You can get the Windows program in the link above.
 centerController.ini should be used as configuration file in BMSAIT.
 
 !!!! Use those files at your own risk !!!!
+
+All the files are free to use under the GNUGPLv3
+
+If you would like to support me with an icecream, coffee or pizza, you can use paypal.me to to it ;)
+[Paypal.me](https://paypal.me/MichiHirczy)
