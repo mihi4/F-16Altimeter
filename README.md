@@ -15,7 +15,8 @@ Best strategy would be to export each part directly from the FreeCAD files.
 You can get the Windows program in the link above.
 centerController.ini should be used as configuration file in BMSAIT.
 
-I hope to add a BOM for the hardware parts I used ASAP
+There are no files for the connectionboard of the LEDMatrixBoard to the displays.  
+You will have to find the specific pinout with a multimeter and then solder the right pin of the displays to it.
 
 ## !!! Use those files at your own risk !!!
 
