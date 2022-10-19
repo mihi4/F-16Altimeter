@@ -22,5 +22,5 @@ You will have to find the specific pinout with a multimeter and then solder the 
 
 All the files are free to use under the GNUGPLv3
 
-If you would like to support me with an icecream, coffee or pizza, you can use paypal.me to to so ;)
+If you would like to support me with an icecream, coffee or pizza, you can use paypal.me to to so ;)  
 [Paypal.me](https://paypal.me/MichiHirczy)
