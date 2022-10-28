@@ -4,6 +4,8 @@ _needle shaft_: any 2mm rod you can find, I used 2mm spring steel since it was a
 
 _needle motor_: X27.168 stepper motor, available all around the net
 
+_needle zeroize sensor_: [Amazon](https://www.amazon.de/gp/product/B0817FM4BJ)
+
 _PNEU flag shaft_: an 1mm steel rod, again, I'm using 1mm spring steel
 
 _PNEU flag motor_: standard SG90 mini servo
